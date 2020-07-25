@@ -1,8 +1,8 @@
 const FILES_TO_CACHE = [
-    "./public/index.html",
-    "./public/css/styles.css",
-    "./public/js/index.js",
-    "./public/js/idb.js"
+    "./index.html",
+    "./css/styles.css",
+    "./js/index.js",
+    "./js/idb.js"
     
   ];
   //use relative path ^
